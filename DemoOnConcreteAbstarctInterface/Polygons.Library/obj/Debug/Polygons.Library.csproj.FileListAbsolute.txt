@@ -1,0 +1,6 @@
+\\userprofiles01\xddata02\tk023648\My Documents\visual studio 2013\Projects\DemoOnConcreteAbstarctInterface\Polygons.Library\bin\Debug\Polygons.Library.exe.config
+\\userprofiles01\xddata02\tk023648\My Documents\visual studio 2013\Projects\DemoOnConcreteAbstarctInterface\Polygons.Library\bin\Debug\Polygons.Library.exe
+\\userprofiles01\xddata02\tk023648\My Documents\visual studio 2013\Projects\DemoOnConcreteAbstarctInterface\Polygons.Library\bin\Debug\Polygons.Library.pdb
+\\userprofiles01\xddata02\tk023648\My Documents\visual studio 2013\Projects\DemoOnConcreteAbstarctInterface\Polygons.Library\obj\Debug\Polygons.Library.exe
+\\userprofiles01\xddata02\tk023648\My Documents\visual studio 2013\Projects\DemoOnConcreteAbstarctInterface\Polygons.Library\obj\Debug\Polygons.Library.pdb
+\\userprofiles01\XDdata02\tk023648\My Documents\Visual Studio 2013\Projects\DemoOnConcreteAbstarctInterface\Polygons.Library\obj\Debug\Polygons.Library.csprojResolveAssemblyReference.cache
